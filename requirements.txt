@@ -1,11 +1,6 @@
-pip==24.2
-pip install --upgrade pip
 streamlit==1.27.0
 openai==0.27.0
 transformers==4.31.0
 torch==2.4.0
 pillow==9.5.0
 tokenizers==0.13.3
-pip install torch torchvision torchaudio
-pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu117
-
